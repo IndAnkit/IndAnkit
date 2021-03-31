@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter,React js,Node js and Web and App development.
 - 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on flutter and other open source projects.
-- 📫 How to reach me :- emial:- ankitpatidar991@gmail.com 
+- 📫 How to reach me 📧 ankitpatidar991@gmail.com 
 
 <!---
 IndAnkit/IndAnkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
