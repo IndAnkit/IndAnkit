@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Lumenore**
 
-- 🌱 I’m currently working **React Js| Node JS | MongoDB | ExpressJS**
+- 🌱 I’m currently working on **React Js| Node JS | MongoDB | ExpressJS**
 
 - 💬 Ask me about **React Js| Node JS | MongoDB | ExpressJS**
 
